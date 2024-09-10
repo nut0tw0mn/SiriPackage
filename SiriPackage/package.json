@@ -1,0 +1,11 @@
+{
+  "name": "com.siriruam.siripackage",
+  "version": "0.0.1",
+  "displayName": "siripackage",
+  "description": "Convenience tools for work",
+  "unity": "2019.1",
+  "author": {
+    "name": "nut",
+    "email": "nut0tw0mn@gmail.com"
+  }
+}
