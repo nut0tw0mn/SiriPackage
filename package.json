@@ -1,7 +1,7 @@
 {
-  "name": "com.siriruam.siripackage",
-  "version": "0.0.1",
-  "displayName": "siripackage",
+  "name": "com.nut0tw0mn.siripackage",
+  "version": "1.0.0",
+  "displayName": "Siri Package",
   "description": "Convenience tools for work",
   "unity": "2019.1",
   "author": {
