@@ -32,18 +32,4 @@ namespace Siri
     }
 }
 
-public static class ExtensionMethods
-{
-    public static Siri.UnityWebRequestAwaiter GetAwaiter(this UnityWebRequestAsyncOperation asyncOp)
-    {
-        return new Siri.UnityWebRequestAwaiter(asyncOp);
-    }
-}
 
-/*
-// Usage example:
-UnityWebRequest www = new UnityWebRequest();
-// ...
-await www.SendWebRequest();
-Debug.Log(req.downloadHandler.text);
-*/
